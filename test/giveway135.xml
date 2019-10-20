@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Give Way Signs</folder>
+	<filename>giveway135.JPG</filename>
+	<path>C:\Users\linds\Documents\Lindsay Uni\ELEC3850\windows_v1.8.0\windows_v1.8.0\Give Way Signs\giveway135.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giveway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>1168</ymin>
+			<xmax>2866</xmax>
+			<ymax>3364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>giveway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>925</ymin>
+			<xmax>2079</xmax>
+			<ymax>3325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>giveway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>1959</ymin>
+			<xmax>1857</xmax>
+			<ymax>3520</ymax>
+		</bndbox>
+	</object>
+</annotation>
