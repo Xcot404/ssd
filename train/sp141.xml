@@ -1,0 +1,26 @@
+<annotation>
+  <folder>speed_signs</folder>
+  <filename>sp141</filename>
+  <path>C:\Users\Sammy\Desktop\speed_signs\sp141.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>250</width>
+    <height>202</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sp50</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>47</xmin>
+      <ymin>46</ymin>
+      <xmax>92</xmax>
+      <ymax>79</ymax>
+    </bndbox>
+  </object>
+</annotation>
