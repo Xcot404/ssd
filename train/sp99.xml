@@ -1,0 +1,26 @@
+<annotation>
+  <folder>speed_signs</folder>
+  <filename>sp99</filename>
+  <path>C:\Users\Sammy\Desktop\speed_signs\sp99.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>291</width>
+    <height>173</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sp80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>42</ymin>
+      <xmax>100</xmax>
+      <ymax>110</ymax>
+    </bndbox>
+  </object>
+</annotation>
