@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Amber</folder>
+	<filename>amber17.jpg</filename>
+	<path>C:\Users\linds\Documents\Lindsay Uni\ELEC3850\windows_v1.8.0\windows_v1.8.0\Amber\amber17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>184</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>40</ymin>
+			<xmax>147</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>amber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>25</ymin>
+			<xmax>156</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
