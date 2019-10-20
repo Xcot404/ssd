@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Red</folder>
+	<filename>red35.jpg</filename>
+	<path>C:\Users\linds\Documents\Lindsay Uni\ELEC3850\windows_v1.8.0\windows_v1.8.0\Red\red35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>197</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>35</ymin>
+			<xmax>235</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>29</ymin>
+			<xmax>240</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

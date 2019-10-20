@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Right turn signs</folder>
+	<filename>Right20.jpg</filename>
+	<path>C:\Users\mitch\OneDrive - The University Of Newcastle\Documents\Uni\Year 3\Semester 2\ELEC3850\Right turn signs\Right20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>239</ymin>
+			<xmax>249</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>233</ymin>
+			<xmax>247</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>251</ymin>
+			<xmax>240</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

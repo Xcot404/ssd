@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Right turn signs</folder>
+	<filename>Right13.jpg</filename>
+	<path>C:\Users\mitch\OneDrive - The University Of Newcastle\Documents\Uni\Year 3\Semester 2\ELEC3850\Right turn signs\Right13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>300</ymin>
+			<xmax>220</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>301</ymin>
+			<xmax>232</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
